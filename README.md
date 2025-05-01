@@ -1,6 +1,8 @@
 # Free Document Maker – AI Tools for PDFs, Invoices & More
 
-🚀 **Free Document Maker** offers over 20 AI-powered tools to create professional documents, convert images, and automate business paperwork — 100% free, private, and no signup required.
+🚀 **Free Document Maker** offers 20+ AI-powered tools to create professional documents, convert images, and automate business paperwork — 100% free, private, and no signup required.
+
+[Explore the Platform →](https://www.freedocumentmaker.com)
 
 ---
 
@@ -25,7 +27,7 @@
 ---
 
 ### 📄 Document Tools
-- [Invoice Generator](https://www.freedocumentmaker.com/invoice-generator) – Create branded invoices instantly
+- [Invoice Generator](https://www.freedocumentmaker.com/invoice-generator)
 - [Credit Note Generator](https://www.freedocumentmaker.com/credit-note-generator)
 - [Purchase Order Generator](https://www.freedocumentmaker.com/purchase-order-generator)
 - [Quote Generator](https://www.freedocumentmaker.com/quote-generator)
@@ -61,13 +63,35 @@
 
 ## 🔗 Social & Distribution
 
-- 📰 Medium: [freedocumentmaker.medium.com](https://freedocumentmaker.medium.com)
-- 📌 Blogspot: [freedocumentmaker.blogspot.com](https://freedocumentmaker.blogspot.com)
-- 🖼️ Pinterest: [pinterest.com/freedocumentmaker](https://www.pinterest.com/freedocumentmaker)
+- 📰 [Medium](https://freedocumentmaker.medium.com)
+- 📌 [Blogspot](https://freedocumentmaker.blogspot.com)
+- 🖼️ [Pinterest](https://www.pinterest.com/freedocumentmaker)
+- 📘 [Facebook](https://www.facebook.com/freedocumentmaker)
+- 🐦 [X (Twitter)](https://x.com/saadkhan112233)
+- 🔗 [LinkedIn (Company)](https://www.linkedin.com/company/free-document-maker/)
+- 🔗 [LinkedIn (Showcase)](https://www.linkedin.com/showcase/free-document-maker-online)
+- 👤 [Saddam Hosen (LinkedIn)](https://www.linkedin.com/in/saddamhosensaad/)
+
+---
+
+## 👨‍💻 Developer
+
+This platform is created and maintained by:
+
+**Saddam Hosen Saad**  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/saddamhosensaad)  
+🌐 [Free Document Maker](https://www.freedocumentmaker.com)
 
 ---
 
 ## 📄 License
 
 **MIT License** — Free to use, modify, and contribute.  
-Built and maintained by [Saddam Hosen](https://www.linkedin.com/in/saddamhosensaad/).
+Built with Laravel, Tailwind CSS, Alpine.js, and Vite.
+
+---
+
+![SEO Optimized](https://img.shields.io/badge/SEO-Optimized-brightgreen)
+![Built with Laravel](https://img.shields.io/badge/Built%20With-Laravel-red)
+![Tailwind CSS](https://img.shields.io/badge/Design-TailwindCSS-blue)
+![Vite Powered](https://img.shields.io/badge/Bundler-Vite-yellow)
