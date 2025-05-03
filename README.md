@@ -46,6 +46,17 @@
 - [Agreement Generator](https://www.freedocumentmaker.com/agreement-generator)
 - [Business Card Generator](https://www.freedocumentmaker.com/business-card-generator)
 
+- 🆕 New Tools
+Favicon Converter – Convert PNG to multi-size .ico favicon files
+
+QR Code Generator – Create QR codes for URLs, text, and contact info
+
+Archive Tool – Create or extract ZIP/7Z archives online
+
+Word Counter – Count words, characters, and reading time
+
+
+
 ---
 
 ## 🌐 Explore More
