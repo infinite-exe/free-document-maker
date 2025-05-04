@@ -13,7 +13,6 @@
 ## 🧰 Tools by Category
 
 ### 📸 Image Tools
-
 - [Convert Images to PDF](https://www.freedocumentmaker.com/image-to-pdf) – Merge JPG, PNG, or WebP into PDF
 - [Convert Image to WebP](https://www.freedocumentmaker.com/image-to-webp) – Shrink images with next-gen format
 - [Convert WebP to Image](https://www.freedocumentmaker.com/webp-to-image) – Turn WebP into PNG or JPG
@@ -25,7 +24,6 @@
 ---
 
 ### 🧾 PDF Tools
-
 - [Image to PDF](https://www.freedocumentmaker.com/image-to-pdf)
 - [PDF to Image](https://www.freedocumentmaker.com/pdf-to-image)
 - [Compress Images for PDF](https://www.freedocumentmaker.com/compress-images)
@@ -33,7 +31,6 @@
 ---
 
 ### 📄 Document Tools
-
 - [Invoice Generator](https://www.freedocumentmaker.com/invoice-generator)
 - [Credit Note Generator](https://www.freedocumentmaker.com/credit-note-generator)
 - [Purchase Order Generator](https://www.freedocumentmaker.com/purchase-order-generator)
@@ -47,7 +44,6 @@
 ---
 
 ### 🧠 AI-Powered Business Tools
-
 - [Resume (CV) Generator](https://www.freedocumentmaker.com/cv-generator)
 - [Job Offer Letter Generator](https://www.freedocumentmaker.com/job-offer-letter-generator)
 - [Certificate Generator](https://www.freedocumentmaker.com/certificate-generator)
@@ -57,7 +53,6 @@
 ---
 
 ### 🆕 New Utility Tools
-
 - [Favicon Converter](https://www.freedocumentmaker.com/favicon-converter) – Convert PNG to .ico
 - [QR Code Generator](https://www.freedocumentmaker.com/qr-code-generator) – QR from URL or text
 - [Archive Tool](https://www.freedocumentmaker.com/archive-tool) – Extract/zip 7z, zip, rar
@@ -69,7 +64,6 @@
 ---
 
 ## 🌐 Explore More
-
 - 🔧 [All Tools Index](https://www.freedocumentmaker.com/tools)
 - 📚 [Features Overview](https://www.freedocumentmaker.com/features)
 - 🤖 [AI-Powered Tools](https://www.freedocumentmaker.com/ai-powered-tools)
@@ -82,7 +76,6 @@
 ---
 
 ## 🔗 Social & Distribution Channels
-
 - 📰 [Medium](https://freedocumentmaker.medium.com)
 - 📌 [Blogspot](https://freedocumentmaker.blogspot.com)
 - 🖼️ [Pinterest](https://www.pinterest.com/freedocumentmaker)
@@ -119,4 +112,3 @@ Built with Laravel, Tailwind CSS, Alpine.js, and Vite.
 ---
 
 ### 📅 Version: May 2025 – Updated Regularly
-
