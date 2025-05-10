@@ -6,7 +6,7 @@
 
 **Free Document Maker** offers 27+ AI-powered tools to create professional documents, convert images, and automate business paperwork — 100% free, private, and no signup required.
 
-👉 [Explore the Platform →](https://www.freedocumentmaker.com)
+👉 [Start Using Free Document Maker →](https://www.freedocumentmaker.com)
 
 ---
 
@@ -21,14 +21,10 @@
 - [Convert Image Formats](https://www.freedocumentmaker.com/convert-images) – PNG, AVIF, BMP, JPG & more
 - [PDF to Image](https://www.freedocumentmaker.com/pdf-to-image) – Extract images from PDF
 
----
-
 ### 🧾 PDF Tools
 - [Image to PDF](https://www.freedocumentmaker.com/image-to-pdf)
 - [PDF to Image](https://www.freedocumentmaker.com/pdf-to-image)
 - [Compress Images for PDF](https://www.freedocumentmaker.com/compress-images)
-
----
 
 ### 📄 Document Tools
 - [Invoice Generator](https://www.freedocumentmaker.com/invoice-generator)
@@ -41,16 +37,12 @@
 - [Payment Receipt Generator](https://www.freedocumentmaker.com/payment-receipt-generator)
 - [Expense Report Generator](https://www.freedocumentmaker.com/expense-report-generator)
 
----
-
 ### 🧠 AI-Powered Business Tools
 - [Resume (CV) Generator](https://www.freedocumentmaker.com/cv-generator)
 - [Job Offer Letter Generator](https://www.freedocumentmaker.com/job-offer-letter-generator)
 - [Certificate Generator](https://www.freedocumentmaker.com/certificate-generator)
 - [Agreement Generator](https://www.freedocumentmaker.com/agreement-generator)
 - [Business Card Generator](https://www.freedocumentmaker.com/business-card-generator)
-
----
 
 ### 🆕 New Utility Tools
 - [Favicon Converter](https://www.freedocumentmaker.com/favicon-converter) – Convert PNG to .ico
@@ -64,6 +56,7 @@
 ---
 
 ## 🌐 Explore More
+
 - 🔧 [All Tools Index](https://www.freedocumentmaker.com/tools)
 - 📚 [Features Overview](https://www.freedocumentmaker.com/features)
 - 🤖 [AI-Powered Tools](https://www.freedocumentmaker.com/ai-powered-tools)
@@ -76,6 +69,7 @@
 ---
 
 ## 🔗 Social & Distribution Channels
+
 - 📰 [Medium](https://freedocumentmaker.medium.com)
 - 📌 [Blogspot](https://freedocumentmaker.blogspot.com)
 - 🖼️ [Pinterest](https://www.pinterest.com/freedocumentmaker)
@@ -89,8 +83,7 @@
 
 ## 👨‍💻 Developer
 
-**Built & Maintained by:**
-
+**Built & Maintained by:**  
 **Saddam Hosen Saad**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/saddamhosensaad)  
 🌐 [Visit Website](https://www.freedocumentmaker.com)
