@@ -74,7 +74,7 @@
 - 📌 [Blogspot](https://freedocumentmaker.blogspot.com)
 - 🖼️ [Pinterest](https://www.pinterest.com/freedocumentmaker)
 - 📘 [Facebook](https://www.facebook.com/freedocumentmaker)
-- 🐦 [X (Twitter)](https://x.com/saadkhan112233)
+- 🐦 [X (Twitter)](https://x.com/freedocmaker)
 - 🔗 [LinkedIn (Company)](https://www.linkedin.com/company/free-document-maker/)
 - 🔗 [LinkedIn (Showcase)](https://www.linkedin.com/showcase/free-document-maker-online)
 - 👤 [Saddam Hosen (LinkedIn)](https://www.linkedin.com/in/saddamhosensaad/)
