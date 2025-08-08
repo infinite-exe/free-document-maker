@@ -4,7 +4,7 @@
 [![Visit Website](https://img.shields.io/badge/Visit-Website-green)](https://www.freedocumentmaker.com)
 [![Follow on Medium](https://img.shields.io/badge/Medium-Blog-black)](https://freedocumentmaker.medium.com)
 
-**Freedocumentmaker com** a browser-based AI software company offering over 30 free tools for creating, editing, and converting documents, images, and PDFs — all instantly, with no sign-up, watermark, or installation required..
+**Freedocumentmaker com** a browser-based AI software company offering over 30 free tools for creating, editing, and converting documents, images, and PDFs — all instantly, with no sign-up, watermark, or installation required.
 
 > ⚡ Instantly create invoices, convert images, generate PDFs, and more.
 
