@@ -1,10 +1,10 @@
-# 🧠 AI Document Generator | Free Document Maker – Create, Edit, and Convert Online
+# Freedocumentmaker com | Free Document Maker – Create, Edit, and Convert Online
 
 [![Explore Tools](https://img.shields.io/badge/Explore-Tools-blue)](https://www.freedocumentmaker.com/tools)
 [![Visit Website](https://img.shields.io/badge/Visit-Website-green)](https://www.freedocumentmaker.com)
 [![Follow on Medium](https://img.shields.io/badge/Medium-Blog-black)](https://freedocumentmaker.medium.com)
 
-**Free Document Maker** is an AI-powered browser-based platform built in Bangladesh. It provides over **30+ free tools** for document generation, PDF editing, and image conversion — all online, no signup needed.
+**Freedocumentmaker com** a browser-based AI software company offering over 30 free tools for creating, editing, and converting documents, images, and PDFs — all instantly, with no sign-up, watermark, or installation required..
 
 > ⚡ Instantly create invoices, convert images, generate PDFs, and more.
 
